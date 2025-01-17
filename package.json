@@ -1,1 +1,15 @@
-
+{
+  "name": "bikeridersapp",
+  "version": "1.0.0",
+  "description": "تطبيق لإدارة فرق الدراجات النارية",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "اسمك",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "@googlemaps/google-maps-services-js": "^3.3.14"
+  }
+}
